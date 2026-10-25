@@ -1,6 +1,14 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Nyr Tools",
+  "packageName": "com.nyr.dev.nyr.tools",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "location",
+    "file_manager",
+    "bluetooth",
+    "vibrate",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
